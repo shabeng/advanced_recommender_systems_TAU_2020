@@ -1,4 +1,4 @@
-# advanced_recommendation_systems_TAU_2020
+# advanced_recommender_systems_TAU_2020
 Course - Advanced Topics in Recommender Systems, at the Faculty of Engineering, March 2020
 
 
