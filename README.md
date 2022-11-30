@@ -1,5 +1,5 @@
 # advanced_recommender_systems_TAU_2020
-Course - Advanced Topics in Recommender Systems, at the Faculty of Engineering, March 2020
+Course - Advanced Topics in Recommender Systems, at the Faculty of Engineering Tel Aviv University, March 2020
 
 
 HW1: We implemented two algorithms for Matrix Factorization regression model - SGD (Stochastic Gradient Descent) and ALS (Alternating Least Squares).
